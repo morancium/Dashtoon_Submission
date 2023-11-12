@@ -168,5 +168,8 @@ you can uncomment the 16th and 19th line and also commenting the 6th and 18th li
 ### References:
 * [(Style Transfer) How to create a “Thai Modern Artwork” without artistic skills](https://medium.com/@nongnoochr/style-transfer-how-to-create-a-thai-modern-artwork-without-artistic-skills-4462aa6eaa3)
 * [Artistic Neural Style Transfer with PyTorch](https://www.pluralsight.com/guides/artistic-neural-style-transfer-with-pytorch)
+* [Aladdin Persson - YouTube](https://www.youtube.com/@AladdinPersson)
+* [Aleksa Gordić - YouTube](https://www.youtube.com/@TheAIEpiphany)
 * [ChatGPT](https://chat.openai.com/share/ffe11ecc-5211-4ae3-83e0-5e1ab459471f)
 * [Bard](https://bard.google.com/)
+
